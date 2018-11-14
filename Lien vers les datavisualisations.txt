@@ -1,0 +1,13 @@
+Les datavisualisations ont été générées à partir de l'outil Tableau Public 2018.3 et sont hébergées en ligne :
+
+Réussite par département :
+https://public.tableau.com/profile/fichot#!/vizhome/ExposOpenData/RussiteparRgionMap
+
+Réussite par origine sociale :
+https://public.tableau.com/profile/fichot#!/vizhome/ExposOpenData/RussiteparOrigineSociale
+
+Réussite par age :
+https://public.tableau.com/profile/fichot#!/vizhome/ExposOpenData/RussiteparTranchedAge
+
+Réussite nationale en fonction du financement publique :
+https://public.tableau.com/profile/fichot#!/vizhome/Classeur1_842/Feuille1
